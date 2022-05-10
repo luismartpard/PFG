@@ -1,5 +1,5 @@
 # Proyecto Final de Grado
-## CGFS Desarrollo de Aplicaciones Web
+## CFGS Desarrollo de Aplicaciones Web
 
 Gestor de Taller Mecánico
 
