@@ -1,5 +1,5 @@
-# PFG
-Proyecto Final de Grado - CGFS Desarrollo de Aplicaciones Web
+# Proyecto Final de Grado
+CGFS Desarrollo de Aplicaciones Web
 
 Antigua Versión
 
