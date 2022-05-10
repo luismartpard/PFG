@@ -1,7 +1,7 @@
 # Proyecto Final de Grado
-## CFGS Desarrollo de Aplicaciones Web
+### CFGS Desarrollo de Aplicaciones Web
 
-Gestor de Taller Mecánico
+##### Gestor de Taller Mecánico
 
 Backend:
 
