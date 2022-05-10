@@ -1,7 +1,7 @@
 # Proyecto Final de Grado
-CGFS Desarrollo de Aplicaciones Web
+## CGFS Desarrollo de Aplicaciones Web
 
-Antigua Versión
+Gestor de Taller Mecánico
 
 Backend:
 
@@ -20,4 +20,4 @@ Base de Datos:
 
 - MySQL
 
-Versión mejorada del proyecto en proceso...
+VERSIÓN OBSOLETA. Versión mejorada del proyecto en proceso...
